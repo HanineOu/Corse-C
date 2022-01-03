@@ -1,0 +1,24 @@
+My app :
+
+Font :
+Freight Sans for large type?Neue Helvetica for body.
+product sans
+sf pro display 
+inter
+Color :
+Principal color :
+White = #FFFFFF
+Blue = #2D8CFF
+Light White = #F6F7F9
+Gray = #DAE0E6
+Dark Gray = #2C2E2E
+Auther color:
+Pink = #F80E5E
+Orange = #FF5700
+
+Logo :
+Font = zoom font
+Color = @color/blue
+
+
+?——————————- ???????? —————————
